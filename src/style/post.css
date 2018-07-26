@@ -1,0 +1,96 @@
+body {
+    background-color: #e3e2e2 !important;
+}
+
+header {
+    background: #4760ba;
+    min-height: 30px;
+    padding: 10px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+header img {
+    margin-left: 10px;
+}
+
+.left-col,
+.right-col {
+    background: #fff;
+}
+
+header a {
+    color: #fff;
+}
+
+.posts,
+.post-row {
+    background: #fff;
+    padding: 10px;
+}
+
+.post-row {
+    margin-top: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 80px;
+    border: 1px solid #d0d1d2;
+    padding: 5px;
+}
+
+.add-comment {
+    margin: 20px 0;
+}
+
+.add-comment textarea {
+    height: 40px;
+}
+
+.comments ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.comments li {
+    border: 1px solid #d0d1d2;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.form-row {
+    padding-bottom: 10px;
+}
+
+.user-info {
+    border-bottom: 1px solid #d0d1d2;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.time,
+.user {
+    font-size: 12px;
+}
+
+.user img {
+    margin-right: 10px;
+}
+
+.map-container {
+    padding-top: 15px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    background: #000;
+}
+
+footer p {
+    padding: 10px;
+    color: #fff;
+    font-size: 12px;
+}
